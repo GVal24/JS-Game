@@ -7,7 +7,6 @@ _Herramientas utilizadas:_
   - JavaScript
 
   ---- Estado: Finalizado ---- <br>
---- Próximas actualizaciones serán para ingresar modificaciones personales en términos responsivos y de base de datos(ranking) ---
 <br><br>
 Diseño para ordenadores
 
